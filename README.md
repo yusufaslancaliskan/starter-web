@@ -13,5 +13,7 @@ Sample website with plenty of files for demos
 Yusuf Aslan Çalışkan
 
 ##Deployment
+I dunno
 
 ##How to contribute
+Do not
