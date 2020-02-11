@@ -17,3 +17,6 @@ I dunno
 
 ##How to contribute
 Do not
+
+###Copyright
+Git.training
