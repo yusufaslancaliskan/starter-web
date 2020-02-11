@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Yusuf Aslan Çalışkan
 # THANKS
 
     <name>
