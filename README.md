@@ -16,7 +16,7 @@ Yusuf Aslan Çalışkan
 I dunno
 
 ##How to contribute
-Do not
+Do nothing
 
 ###Copyright
 Git.training
