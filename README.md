@@ -22,4 +22,4 @@ I dunno
 Do nothing
 
 ###Copyright
-Git.training
+Git.training All rights reserved
